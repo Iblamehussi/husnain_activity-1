@@ -1,3 +1,6 @@
+#Nasheel repository link: https://github.com/NasheelNadeem/Nasheel_Nadeem_Activity-1.git
+#Husnain repository link: 
+
 import turtle
 
 # Function to draw a rectangle (useful for table, cake, and legs)
